@@ -108,7 +108,7 @@ async def on_voice_state_update(member, before, after):
                 after=lambda e: print('done', e))
 
 
-bot.run('NzQwMjE3NDk1OTk0MTA1ODg2.XylzQw.FEVI_HH8xxzR0YpHIPKQ3vXmTm0')
+bot.run('XXXX')
 
 
 
