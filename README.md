@@ -1,0 +1,1 @@
+Idk something for me and my friends to enjoy. Memes, gifs, different tts, voice messages and a ton of random stuff. Build using discord.py library.
